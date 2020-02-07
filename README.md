@@ -1,0 +1,2 @@
+# SGO
+Queries do SGO
